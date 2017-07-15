@@ -9,7 +9,7 @@
 - Yhteyttä sähköpostilla tai irkissä
 
 - IRC-kanava **#tiralabra2017** @ IRCnet
-- Kurssisivu https://github.com/TiraLabra/2017-alkukesa/wiki
+- Kurssisivu https://github.com/TiraLabra/2017-loppukesa/wiki
 
 # Mistä kyse?
 
@@ -29,7 +29,7 @@
 - Toteutuskieli ohjaajan hyväksyttävä. Ainakin Java käy.
     - Myös esim c#, Python, c sallittuja.
     - Tule kuitenkin juttelemaan jollet kirjoita javlla.
-    - Ota huomioon että vaaditaan jonkinlainen testikattavuusraportointi
+    - Ota huomioon että vaaditaan testaus ja jonkinlainen testikattavuusraportointi
 - Käytössä **Git**-versionhallinta sekä **GitHub**
 - Harjoitustyö on **yksilötyö**
 - Tuloksena yleensä **suoritettava ohjelma**
@@ -41,13 +41,14 @@
 - Esimerkkiaiheita:
     - Reitinhakualgoritmien vertaus
     - Pakkausalgoritmit
+    - Krypto
     - Peliratkaisijat (miinaharava, nonogrammi, pasianssit...)
     - Tekoälyt (Shakki, go...)
 - **Valitse ennen kaikkea jokin itseäsi kiinnostava aihe!**
 
 # Koodaustyyli
 
-- Tälläkin kurssilla Kurssilla edellytetään että kirjoitettu koodi on laadukasta ja helppolukuista. Kannattaa käyttää tyylitarkastusta. Esim java checkstyle
+- Tälläkin kurssilla Kurssilla edellytetään että kirjoitettu koodi on laadukasta ja helppolukuista. Kannattaa käyttää tyylitarkastusta. Esim java checkstyle.
 
 # Kurssin kulku
 
@@ -58,13 +59,13 @@
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella
-    - Ohjaajat antavat palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta
+    - Ohjaajat antavat palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta tai irkistä
     - Lisäaikaa saa **hyvällä syyllä**, **etukäteen pyytämällä**
 
 # Kurssin kulku
 
 - Aloitusluenolla sovitaan viikottaisten ohjausaikojen järjestämisestä
-    - Muuten yksilöohjausta voidan järjestää pyynöstä yliopistolla (Olen paikalla jokatapauksessa lähes päivittän)
+    - Muuten yksilöohjausta voidan järjestää pyynöstä
 <!--- - Kurssin aikana tarjolla **ohjausta** eli pajaa
     - **Torstaisin 16-19** Luokassa **B221** (yläpaja) -->
     - Täysin vapaaehtoista
