@@ -1,6 +1,6 @@
 % Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit (Tiralabra)
 % Saska Dönges
-% 12.5.2017
+% 24.7.2017
 
 # Ohjaajat
 
